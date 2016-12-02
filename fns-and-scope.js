@@ -51,7 +51,8 @@ function getName(userName){
 
 
 
-//What are all the falsy values in JavaScript and how do you check if something is falsy?
+//What are all the falsy values in JavaScript and how do you check
+//if something is falsy?
 
 
   //Answer Here
